@@ -18,7 +18,7 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 
 ## 📜 Regras de Convivência
 
-<details>
+<details markdown="1">
 <summary><b>Clique para ver nossas regras de convivência.</b></summary>
 
 1. **Respeito é essencial**
@@ -44,7 +44,7 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 
 ## 🛠️ Instruções e Avisos
 
-<details>
+<details markdown="1">
 <summary><b>Como descompactar os cursos (.7z)</b></summary>
 
 > **Nota:** Os cursos foram compactados para evitar problemas de direitos autorais.

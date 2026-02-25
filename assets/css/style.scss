@@ -2,23 +2,24 @@
 ---
 @import "{{ site.theme }}";
 
-/* Mata o cabeçalho e rodapé do Midnight */
-#header_wrap, #footer_wrap {
+/* 1. Mata TUDO o que for cabeçalho e rodapé do tema Midnight */
+header, footer, .repo-owner {
   display: none !important;
 }
 
-/* Deixa o texto maior e mais confortável */
+/* 2. Remove botões extras de GitHub se o tema tentar forçar */
+.view, .downloads {
+  display: none !important;
+}
+
+/* 3. Ajustes de fonte e fundo */
 body {
-  font-size: 1.1em !important;
+  font-size: 18px !important;
   line-height: 1.6;
-  background-color: #111 !important; /* Fundo dark para combinar com a imagem */
+  background-color: #111 !important;
 }
 
-.main-content {
-  padding-top: 20px !important;
-}
-
-/* Estiliza as abas colapsáveis para ficarem mais visíveis */
+/* 4. Estiliza as abas para ficarem visíveis e clicáveis */
 details {
   background: rgba(255, 255, 255, 0.05);
   padding: 15px;
@@ -29,5 +30,5 @@ details {
 
 summary {
   font-size: 1.2em;
-  color: #c084fc; /* Um roxinho neon para dar o tchan! */
+  color: #c084fc; /* Roxo neon ✨ */
 }
