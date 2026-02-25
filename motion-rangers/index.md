@@ -6,7 +6,7 @@ layout: default
 
 # ⚡ Infos da Comunidade Motion Rangers
 
-_Bem-vindx ao nosso grupo de Motion Design no WhatsApp!_
+_Bem-vindx ao nosso grupo de Motion Design no WhatsApp!_ <br>
 Nosso objetivo é criar uma comunidade colaborativa para profissionais e entusiastas de Motion Design, Ilustração, Design e áreas relacionadas. 🎨
 
 Aqui você vai encontrar links e informações relevantes da nossa comunidade!
@@ -25,21 +25,21 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 <details markdown="1">
 <summary><b>Clique para ver nossas regras de convivência.</b></summary>
 
-1. **Respeito é essencial**
+1. **Respeito é essencial** <br>
    Trate todxs com respeito e empatia. Ofensas ou ataques pessoais são proibidos.
-2. **Inclusividade e acolhimento**
+2. **Inclusividade e acolhimento** <br>
    Respeitamos todas as identidades. Use pronomes escolhidos por cada pessoa.
-3. **Promoção com moderação**
+3. **Promoção com moderação** <br>
    Divulgue seus trabalhos, mas não transforme o grupo em um mercado.
-4. **Cuidado com links**
+4. **Cuidado com links** <br>
    Apenas fontes confiáveis. Links suspeitos podem gerar suspensão.
-5. **Evite spam**
+5. **Evite spam** <br>
    Mantenha o foco em trocas e aprendizado.
-6. **Privacidade**
+6. **Privacidade** <br>
    Não compartilhe dados alheios sem autorização.
-7. **Moderação**
+7. **Moderação** <br>
    Conflitos devem ser tratados diretamente com os moderadores.
-8. **Divirta-se!**
+8. **Divirta-se!** <br>
    Contribua para um ambiente positivo.
 
 </details>
