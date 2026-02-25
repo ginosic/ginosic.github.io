@@ -1,86 +1,82 @@
 ---
 ---
 
-/* =========================================================
-   MOTION RANGERS - THEME OVERRIDE
-   ========================================================= */
-
-/* 1. Sumir com o passado (Mata o cabeçalho e botão do GitHub) */
-header, footer, #header_wrap, #footer_wrap, .downloads, .repo-owner, .page-header {
-  display: none !important;
-}
-
-/* 2. O Palco (Fundo dark moderno e tipografia) */
+/* Fundo dark moderno e tipografia */
 body {
-  background-color: #0a0a0c !important; /* Fundo super escuro */
-  color: #e0e0e0 !important;
-  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
-  font-size: 18px !important;
-  line-height: 1.7 !important;
+  background-color: #0a0a0c;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
 }
 
-/* 3. Limpeza das linhas tracejadas antigas do tema Midnight */
-.container, .wrapper, .main-content, section {
-  border: none !important;
-  max-width: 750px !important;
-  margin: 0 auto !important;
-  padding: 30px 20px !important;
+/* O Container (Centraliza tudo e arruma a largura) */
+.container {
+  max-width: 750px; /* Trava a largura do site aqui */
+  margin: 50px auto; /* O 'auto' é o que centraliza a caixa no meio da tela */
+  padding: 0 20px;
 }
 
-/* 4. Estilização da Imagem do Topo (Com um leve glow roxo) */
+/* Estilização da Imagem (Fica do tamanho do container) */
 img {
-  border-radius: 12px !important;
-  box-shadow: 0 8px 30px rgba(192, 132, 252, 0.2) !important;
-  margin-bottom: 20px !important;
-  width: 100% !important;
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(192, 132, 252, 0.15);
+  margin-bottom: 30px;
+  width: 100%;
+  display: block;
 }
 
-/* 5. Estilo dos Links (Roxo com transição suave) */
-a {
-  color: #c084fc !important;
-  text-decoration: none !important;
-  font-weight: bold !important;
-  transition: color 0.3s ease !important;
-}
-a:hover {
-  color: #e8b5ff !important;
+/* O Respiro nas Listas */
+li {
+  margin-bottom: 12px; /* Aqui está a quebra de linha mágica! */
 }
 
-/* 6. As Abas Colapsáveis (Premium UI) */
+/* As Abas Colapsáveis */
 details {
-  background: #141417 !important;
-  padding: 15px 20px !important;
-  border-radius: 10px !important;
-  margin: 15px 0 !important;
-  border: 1px solid #2a2a35 !important;
-  cursor: pointer !important;
-  transition: all 0.2s ease !important;
+  background: #141417;
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin: 15px 0;
+  border: 1px solid #2a2a35;
+  cursor: pointer;
+  transition: border-color 0.2s ease;
 }
 details:hover {
-  border-color: #c084fc !important;
+  border-color: #c084fc;
 }
 
 summary {
-  font-size: 1.1em !important;
-  font-weight: bold !important;
-  color: #c084fc !important; /* Nosso roxo neon */
-  outline: none !important;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #c084fc;
+  outline: none;
 }
 
-/* 7. Caixas de Citação (Avisos) */
-blockquote {
-  border-left: 4px solid #c084fc !important;
-  background: rgba(192, 132, 252, 0.05) !important;
-  padding: 12px 20px !important;
-  border-radius: 0 8px 8px 0 !important;
-  margin: 20px 0 !important;
-  color: #bbb !important;
+/* Estilo dos Links */
+a {
+  color: #c084fc;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  color: #e8b5ff;
 }
 
-/* 8. Linhas divisórias suaves */
+/* Linhas e Citações */
 hr {
-  border: 0 !important;
-  height: 1px !important;
-  background: #2a2a35 !important;
-  margin: 40px 0 !important;
+  border: 0;
+  height: 1px;
+  background: #2a2a35;
+  margin: 40px 0;
+}
+
+blockquote {
+  border-left: 4px solid #c084fc;
+  background: rgba(192, 132, 252, 0.05);
+  padding: 12px 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 20px 0;
+  color: #bbb;
 }
