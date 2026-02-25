@@ -1,4 +1,4 @@
-# ![Motion Rangers](image_093a90.jpg)
+# ![Motion Rangers](motion-rangers.png)
 
 # ⚡ Infos da Comunidade Motion Rangers
 
