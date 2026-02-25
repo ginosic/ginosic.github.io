@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Esconde o cabeçalho gigante do tema */
+.page-header {
+  display: none !important;
+}
+
+/* Garante que o conteúdo não fique colado no topo */
+.main-content {
+  padding-top: 2rem;
+}
