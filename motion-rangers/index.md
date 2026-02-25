@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # ![Motion Rangers](../assets/images/motion-rangers.png)
 
 # ⚡ Infos da Comunidade Motion Rangers
