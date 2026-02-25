@@ -1,3 +1,19 @@
+<style>
+  /* Esconde o título e a descrição padrão do tema */
+  header .project-name, 
+  header .project-tagline,
+  .page-header { 
+    display: none !important; 
+  }
+  
+  /* Se você usar o tema Cayman, isso remove o banner azul/verde inteiro */
+  section.page-header {
+    padding: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+  }
+</style>
+
 # ![Motion Rangers](motion-rangers.png)
 
 # ⚡ Infos da Comunidade Motion Rangers
