@@ -17,6 +17,7 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 ---
 
 ## 📜 Regras de Convivência
+
 <details>
 <summary><b>Clique para ver nossas regras de convivência.</b></summary>
 
@@ -36,11 +37,13 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
    Conflitos devem ser tratados diretamente com os moderadores.
 8. **Divirta-se!**
    Contribua para um ambiente positivo.
+
 </details>
 
 ---
 
 ## 🛠️ Instruções e Avisos
+
 <details>
 <summary><b>Como descompactar os cursos (.7z)</b></summary>
 
@@ -55,6 +58,7 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 1. Baixe **todos** os arquivos da pasta (`.7z`, `.7z.002`, etc).
 2. Selecione apenas o **primeiro** arquivo (`.7z`).
 3. Clique com o botão direito e escolha "Extrair aqui".
+
 </details>
 
 ---

@@ -2,12 +2,32 @@
 ---
 @import "{{ site.theme }}";
 
-/* Esconde o cabeçalho gigante do tema */
-.page-header {
+/* Mata o cabeçalho e rodapé do Midnight */
+#header_wrap, #footer_wrap {
   display: none !important;
 }
 
-/* Garante que o conteúdo não fique colado no topo */
+/* Deixa o texto maior e mais confortável */
+body {
+  font-size: 1.1em !important;
+  line-height: 1.6;
+  background-color: #111 !important; /* Fundo dark para combinar com a imagem */
+}
+
 .main-content {
-  padding-top: 2rem;
+  padding-top: 20px !important;
+}
+
+/* Estiliza as abas colapsáveis para ficarem mais visíveis */
+details {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+summary {
+  font-size: 1.2em;
+  color: #c084fc; /* Um roxinho neon para dar o tchan! */
 }
