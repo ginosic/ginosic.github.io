@@ -58,7 +58,7 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 3. **Qualidade da Informação (Sem "Achismo")** <br>
    Vamos elevar o nível do debate. Ao dar conselhos técnicos ou de mercado, baseie-se em fatos ou experiências reais. Evite frases de efeito, "ouvi dizer" ou palpites sem fundamento que possam confundir outras pessoas.
 4. **Memes e Figurinhas (O Uso Consciente)** <br>
-   Não somos robôs, mas vamos evitar o flood. Memes e figurinhas são permitidos apenas se estiverem no contexto de Motion/Trabalho. Se a piada for sobre outro tema ou não agregar na discussão, guarde para o privado ou Discord.
+   Não somos robôs, mas vamos evitar o flood. Memes e figurinhas são permitidos apenas se estiverem no contexto de Motion/Trabalho. Vai fazer piada sobre o que está sendo discutido, sem agregar na discussão? Evite. Se a piada for sobre outro tema, guarde para o privado ou para o Discord.
 5. **Respeito e Objetividade** <br>
    Dúvidas sempre são bem-vindas, mas antes de perguntar, dê uma busca rápida no histórico do grupo. Ao responder, faça de forma direta e cordial. O tempo de todo mundo aqui é valioso!
 6. **Exceções Raras** <br>
