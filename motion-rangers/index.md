@@ -46,6 +46,28 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 
 ---
 
+## 📜 Regras de Comunicação
+
+<details markdown="1">
+<summary><b>Clique para ver nossas regras de comunicação.</b></summary>
+
+1. **Foco Total em Motion & Trabalho** <br>
+   O assunto principal aqui é Motion Design, mercado, referências, dúvidas técnicas e oportunidades. Assuntos externos (política, religião, futebol, etc.) devem ser evitados para manter o chat limpo e focado.
+2. **Papo no Discord** <br>
+   Quer papear sobre outros temas? O Discord está lá para isso! Temos canais separados para interagir com mais liberdade sobre qualquer assunto, seguindo as regras de convivência básicas.
+3. **Qualidade da Informação (Sem "Achismo")** <br>
+   Vamos elevar o nível do debate. Ao dar conselhos técnicos ou de mercado, baseie-se em fatos ou experiências reais. Evite frases de efeito, "ouvi dizer" ou palpites sem fundamento que possam confundir outras pessoas.
+4. **Memes e Figurinhas (O Uso Consciente)** <br>
+   Não somos robôs, mas vamos evitar o flood. Memes e figurinhas são permitidos apenas se estiverem no contexto de Motion/Trabalho. Se a piada for sobre outro tema ou não agregar na discussão, guarde para o privado ou Discord.
+5. **Respeito e Objetividade** <br>
+   Dúvidas sempre são bem-vindas, mas antes de perguntar, dê uma busca rápida no histórico do grupo. Ao responder, faça de forma direta e cordial. O tempo de todo mundo aqui é valioso!
+6. **Exceções Raras** <br>
+   Notícias de grande impacto direto no nosso setor (ex: mudanças em softwares, leis de direitos autorais, mudanças trabalhistas ou fiscais) podem ser compartilhadas, desde que a discussão não fuja da temática profissional.
+
+</details>
+
+---
+
 ## 🛠️ Instruções e Avisos
 
 <details markdown="1">
