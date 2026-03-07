@@ -6,7 +6,7 @@ layout: default
 
 # ⚡ Infos da Comunidade Motion Rangers
 
-_Bem-vindx ao nosso grupo de Motion Design no WhatsApp!_ <br>
+_Bem-vindx ao Motion Rangers!_ <br>
 Nosso objetivo é criar uma comunidade colaborativa para profissionais e entusiastas de Motion Design, Ilustração, Design e áreas relacionadas. 🎨
 
 Aqui você vai encontrar links e informações relevantes da nossa comunidade!
