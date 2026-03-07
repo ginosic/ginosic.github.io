@@ -20,7 +20,7 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 
 ---
 
-## 📜 Regras de Convivência
+## 🤝 Regras de Convivência
 
 <details markdown="1">
 <summary><b>Clique para ver nossas regras de convivência.</b></summary>
@@ -46,7 +46,7 @@ Aqui você vai encontrar links e informações relevantes da nossa comunidade!
 
 ---
 
-## 📜 Regras de Comunicação
+## 💬 Regras de Comunicação
 
 <details markdown="1">
 <summary><b>Clique para ver nossas regras de comunicação.</b></summary>
